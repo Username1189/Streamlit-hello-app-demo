@@ -1,5 +1,3 @@
 import streamlit as st
 
-st.title("Hello streamlit")
-st.subheader("Welcome to my first streamlit app")
-st.text("Some text here")
+st.title("Hello Ranjith!!")
